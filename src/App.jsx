@@ -6,7 +6,7 @@ import { Navbar, Footer } from './components';
 function App() {
   return (
     <Router>
-      <div className='px-6 md:px-16 lg:px-24 xl:px-32'>
+      <div className='md:px-12 lg:px-18 xl:px-24'>
         <Navbar />
         <Routes>
           <Route path="/" element={<Home />} />

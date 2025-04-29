@@ -18,6 +18,22 @@ import star from'./icons/star.png'
 import deals1 from './deals/deal1.png'
 import deals2 from './deals/deal2.png'
 
+// Restaurants
+import res1 from './restaurants/res1.png'
+import res2 from './restaurants/res2.png'
+import res3 from './restaurants/res3.png'
+import res4 from './restaurants/res4.png'
+import res5 from './restaurants/res5.png'
+import res6 from './restaurants/res6.png'
+
+// Categories
+import cat1 from './categories/cat1.png'
+import cat2 from './categories/cat2.png'
+import cat3 from './categories/cat3.png'
+import cat4 from './categories/cat4.png'
+import cat5 from './categories/cat5.png'
+import cat6 from './categories/cat6.png'
+
 
 export const assets = {
     logo,
@@ -34,4 +50,16 @@ export const assets = {
     location,
     deals1,
     deals2,
+    res1,
+    res2,
+    res3,
+    res4,
+    res5,
+    res6,
+    cat1,
+    cat2,
+    cat3,
+    cat4,
+    cat5,
+    cat6
 }
